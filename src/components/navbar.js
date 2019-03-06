@@ -7,6 +7,8 @@
       <ul className="nav-links">
         <li className="nav-item"><Link to="/">Home</Link></li>
         <li className="nav-item"><Link to="/about">About</Link></li>
+        <li className="nav-item"><Link to="/athletespotlight">Athlete Spotlight</Link></li>
+        <li className="nav-item"><Link to="/news">Hot Topics</Link></li>
         <li className="nav-item"><Link to="/products">Products</Link></li>
         <li className="nav-item"><Link to="/contact">Contact</Link></li>
         
